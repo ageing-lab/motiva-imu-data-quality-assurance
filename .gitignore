@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# MATLAB
+*.asv
+*.autosave
+slprj/
+
+# R
+.Rhistory
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Generated results (if applicable)
+deprecated/
+results/
+output/
+logs/
+
+# Configuration files
+mover.txt

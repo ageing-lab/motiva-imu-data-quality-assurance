@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata in this file."
+type: software
+title: "MOTIVA-IMU Data Quality Assurance"
+authors:
+  - family-names: "Cobo"
+    given-names: "Antonio"
+    affiliation: "CIBER de Bioingeniería, Biomateriales y Nanomedicina (CIBER-BBN), Instituto de Salud Carlos III (ISCIII); Center for Biomedical Technology (CTB), Universidad Politécnica de Madrid (UPM)"
+  - family-names: "Villalba-Mora"
+    given-names: "Elena"
+    affiliation: "Center for Biomedical Technology (CTB), Universidad Politécnica de Madrid (UPM); CIBER de Bioingeniería, Biomateriales y Nanomedicina (CIBER-BBN), Instituto de Salud Carlos III (ISCIII)"
+abstract: >-
+  Tools for preparing, inspecting, and quality-checking the MOTIVA-IMU
+  dataset, including inertial motion-capture recordings and exercise
+  annotations (ground truth).
+license: AGPL-3.0-only
