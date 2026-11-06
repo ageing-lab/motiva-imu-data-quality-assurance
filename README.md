@@ -1,5 +1,7 @@
 # MOTIVA-IMU Data Quality Assurance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24001182.svg)](https://doi.org/10.5281/zenodo.24001182)
+
 Tools for preparing, inspecting, and quality-checking the **MOTIVA-IMU** dataset, including inertial motion-capture recordings and exercise annotations (*ground truth*).
 
 The repository is organized into three stages: file preparation and integrity, inertial signal integrity, and ground-truth quality control. It also includes a MATLAB visualization tool for inspecting signals alongside their annotations.
@@ -206,7 +208,12 @@ Copyright notices in individual source files identify the authors as the copyrig
 
 ## Citation
 
-If you use these tools in research, please acknowledge the MOTIVA-IMU project and cite the associated publication or archived software release, when available. Citation metadata may be provided in a `CITATION.cff` file.
+If you use these software in your research, please acknowledge the MOTIVA-IMU project and cite the associated publication and the following archived release:
+
+Cobo, A., & Villalba-Mora, E. (2026). *MOTIVA-IMU Data Quality Assurance* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24001183
+
+Citation metadata are also provided in the [CITATION.cff](CITATION.cff) file.
+
 
 This citation request is separate from the legal obligations of AGPLv3; the license does not itself require citation of a scientific publication.
 

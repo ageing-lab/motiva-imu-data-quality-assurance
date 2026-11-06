@@ -18,8 +18,11 @@ abstract: >-
 
 license: AGPL-3.0-only
 
+version: "1.0.0"
+date-released: "2026-11-06"
+
+doi: "10.5281/zenodo.24001183"
+
 repository-code: "https://github.com/ageing-lab/motiva-imu-data-quality-assurance/"
 url: "https://github.com/ageing-lab/motiva-imu-data-quality-assurance/"
 
-version: "1.0.0"
-date-released: "2026-11-03"
